@@ -1,2 +1,2 @@
 # Thailand-Olympiad-in-Informatics-TOI-
-'P' at last of the file name means 100 percent correct.
+Putting 'P' at the last of a file name means correct.
